@@ -1,0 +1,3 @@
+# Decision Trees
+
+[[information gain]]

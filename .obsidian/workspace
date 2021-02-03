@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "b24ca340707c8e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3fc11a4cdb8a7eb",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcae348dc8281498",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a400aa3ab484547",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a80cf37552493717",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "63908779ba3b1137",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289
+  },
+  "right": {
+    "id": "2856add792109d6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1900c8d48e33c168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "181f4baf41237fc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "instance-based learning.md",
+    "k-nearest neighbors.md",
+    "neural networks.md",
+    "backpropagation.md",
+    "information gain.md",
+    "decision trees.md",
+    "machine learning.md",
+    "root mean square error.md",
+    "imgs/Screen Shot 2021-01-04 at 1.44.36 AM.png.md",
+    "bagging.md"
+  ]
+}
